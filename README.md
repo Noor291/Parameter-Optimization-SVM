@@ -23,7 +23,7 @@ Steps:
                                                                                                                       
 # Analysis of Rows and Columns
 We can see that there are no NA values in the dataset and there are about 94.1% continous columns, leaving 5.9% 
-discrete columns.
+discrete columns.<br>
 <img src="https://user-images.githubusercontent.com/78134535/233220697-f47d1331-61f8-4307-b238-a5a1a063ba3b.png" width="600"> 
 
 # Scatter Plot of X-box vs. Y-box
